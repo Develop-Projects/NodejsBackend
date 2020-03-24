@@ -1,0 +1,29 @@
+{
+  "name": "sample_backend",
+  "version": "1.0.0",
+  "description": "A Server For A Simple Website",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Develop-Projects/Joshua0707.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "npm"
+  ],
+  "author": "The Futurers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Develop-Projects/Joshua0707/issues"
+  },
+  "homepage": "https://github.com/Develop-Projects/Joshua0707#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
